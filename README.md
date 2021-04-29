@@ -1,6 +1,11 @@
-### Hi there 👋
- [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=xonic789&count_private=true&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=xonic789)](https://github.com/anuraghazra/github-readme-stats)
+### 주니어 백엔드 개발자
+- 언어 : 자바, 파이썬
+- 프레임워크 : 스프링, 스프링부트
+ - ORM : JPA (Hibernate)
+  - querydsl
+- 데이터베이스 : 관계형 (Oracle, Mysql)
+- 데브옵스 : 도커, aws
+- 운영체제 : window 10 (WSL2 포함), 리눅스
 
 <!--
 **xonic789/xonic789** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
