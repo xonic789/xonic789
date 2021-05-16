@@ -1,11 +1,12 @@
 ### 주니어 백엔드 개발자
-- 언어 : 자바, 파이썬
-- 프레임워크 : 스프링, 스프링부트
+- Language : Java, Python
+- Framework : Spring framework, Spring boot
  - ORM : JPA (Hibernate)
   - querydsl
-- 데이터베이스 : 관계형 (Oracle, Mysql)
-- 데브옵스 : 도커, aws
-- 운영체제 : window 10 (WSL2 포함), 리눅스
+- RDBMS : Oracle, Mysql
+- OS : window 10 (WSL2 포함), linux (centOS, ubuntu)
+- SCM : git
+- docker, aws
 
 
 <!-- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=xonic789&count_private=true&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats) -->
