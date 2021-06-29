@@ -1,5 +1,5 @@
-### 주니어 백엔드 개발자
-- Language : Java, Python
+### 신입 백엔드 개발자
+- Language : Java, Python, javascript
 - Framework : Spring framework, Spring boot
  - ORM : JPA (Hibernate)
   - querydsl
