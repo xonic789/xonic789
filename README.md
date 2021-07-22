@@ -1,4 +1,7 @@
 ### 신입 백엔드 개발자
+
+[blog](https://velog.io/@xonic789/)
+
 - Language : Java, Python, javascript
 - Framework : Spring framework, Spring boot
  - ORM : JPA (Hibernate)
