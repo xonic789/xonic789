@@ -3,10 +3,10 @@
 [blog : https://velog.io/@xonic789/](https://velog.io/@xonic789/)
 
 
-- Language : Java, Python, javascript
-- Framework : Spring framework, Spring boot
+- Language : Java
+- WEB Framework : Spring framework, Spring boot
  - ORM : JPA (Hibernate)
-- RDBMS : Oracle, Mysql
+- RDBMS : Mysql
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fxonic789%2Fxonic789&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
