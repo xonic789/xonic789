@@ -1,4 +1,4 @@
-### 신입 백엔드 개발자
+### 백엔드 개발자
 
 [blog : https://velog.io/@xonic789/](https://velog.io/@xonic789/)
 
